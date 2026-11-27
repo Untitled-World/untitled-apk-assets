@@ -6,7 +6,7 @@
     "name": "UnityPy",
     "version": "1.25.4"
   },
-  "updatedAt": "2026-11-27T14:16:30Z",
+  "updatedAt": "2026-11-27T14:18:42Z",
   "counts": {
     "audio": 223,
     "app-res": 674,
@@ -15,7 +15,7 @@
     "font": 18,
     "animation": 390
   },
-  "totalBytes": 227086182,
+  "totalBytes": 226733572,
   "files": [
     {
       "logicalPath": "animation/AreaItemSpawn.json",
@@ -156,15 +156,15 @@
       "status": "ready"
     },
     {
-      "logicalPath": "animation/ProfileChangeNext.gif",
-      "sha256": "f4ea28d0614b022d1183c7e693b6b25c55302e2aebf9efffc6bd9ed182d64b1d",
-      "size": 441526,
-      "status": "ready"
-    },
-    {
       "logicalPath": "animation/ProfileChangeNext.json",
       "sha256": "570477c7ef9a29fddac52ff67af22c143e6e0a7fb88c6e8964b179283ddff9e3",
       "size": 18913,
+      "status": "ready"
+    },
+    {
+      "logicalPath": "animation/ProfileChangeNext.mp4",
+      "sha256": "d8e7fa51b146c175a82268a45f63d4d85d426481d424f6f588ce9b8b5c5672b6",
+      "size": 88916,
       "status": "ready"
     },
     {
