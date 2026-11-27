@@ -6,16 +6,16 @@
     "name": "UnityPy",
     "version": "1.25.4"
   },
-  "updatedAt": "2026-11-27T14:15:52Z",
+  "updatedAt": "2026-11-27T14:16:30Z",
   "counts": {
-    "audio": 219,
+    "audio": 223,
     "app-res": 674,
     "sprite": 2807,
     "texture": 764,
     "font": 18,
     "animation": 390
   },
-  "totalBytes": 227033115,
+  "totalBytes": 227086182,
   "files": [
     {
       "logicalPath": "animation/AreaItemSpawn.json",
@@ -6444,6 +6444,18 @@
       "status": "ready"
     },
     {
+      "logicalPath": "audio/menu-common-built-in/SE_CANCEL-2.ogg",
+      "sha256": "dbc08054c9ed37a696eec62d9a776b4b502b5285f6556e1e06e50cd982d63ec5",
+      "size": 9937,
+      "status": "ready"
+    },
+    {
+      "logicalPath": "audio/menu-common-built-in/SE_CANCEL-3.ogg",
+      "sha256": "28853b66a5fdc964240d8570115026a0f15a5d99d3883be82d2e556a94852152",
+      "size": 10703,
+      "status": "ready"
+    },
+    {
       "logicalPath": "audio/menu-common-built-in/SE_CANCEL.ogg",
       "sha256": "7dc02ab99659fee6b099932ce37432c62c9309f1e81a38e5687c1d1e40af7469",
       "size": 10703,
@@ -6477,6 +6489,12 @@
       "logicalPath": "audio/menu-common-built-in/SE_DECIDE1_old.ogg",
       "sha256": "545ea32d0f0206ed72ee8abbb6ea1e801edfd9f367d7e40dd5069f7ee0c64c21",
       "size": 7699,
+      "status": "ready"
+    },
+    {
+      "logicalPath": "audio/menu-common-built-in/SE_DECIDE1_old2-2.ogg",
+      "sha256": "ec12b03a1c5a0a91f8827751ce77883e01cb6955be9b738ff4a7f885094d789b",
+      "size": 7798,
       "status": "ready"
     },
     {
@@ -6525,6 +6543,12 @@
       "logicalPath": "audio/menu-common-built-in/SE_UI_DOWNLOAD_END_2.ogg",
       "sha256": "d3352256d8f7111959703e9a15def2faf8e8be7ff12095b468b4b35414495b55",
       "size": 59432,
+      "status": "ready"
+    },
+    {
+      "logicalPath": "audio/menu-common-built-in/SE_UI_SCROLL-2.ogg",
+      "sha256": "4d65d52fd3ed40fc2710ceefe46ef508ce95591e33b1e223ae4fe63d872e8a24",
+      "size": 24629,
       "status": "ready"
     },
     {
