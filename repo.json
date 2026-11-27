@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "name": "untitled-apk-assets",
+  "kind": "apk-assets",
+  "mode": "parent-only",
+  "childManaged": false,
+  "keyType": "category-path",
+  "urlTemplate": "https://untitled-world.github.io/untitled-apk-assets/{path}",
+  "deliveryBaseUrl": "https://untitled-world.github.io/untitled-apk-assets/",
+  "sourceAppVersion": "7.1.0",
+  "status": "ready"
+}
