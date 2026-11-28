@@ -6,7 +6,7 @@
     "name": "UnityPy",
     "version": "1.25.4"
   },
-  "updatedAt": "2026-11-27T14:19:22Z",
+  "updatedAt": "2026-11-28T02:02:56Z",
   "counts": {
     "audio": 223,
     "app-res": 674,
@@ -4116,8 +4116,8 @@
     },
     {
       "logicalPath": "audio/menu-common-built-in/SE_CANCEL.ogg",
-      "sha256": "7dc02ab99659fee6b099932ce37432c62c9309f1e81a38e5687c1d1e40af7469",
-      "size": 10703,
+      "sha256": "dbfbcc52aa49a326793abfd00402ff6fe0ba93b0e3ccd67ce019cf7d0958eb20",
+      "size": 7787,
       "status": "ready"
     },
     {
@@ -4158,8 +4158,8 @@
     },
     {
       "logicalPath": "audio/menu-common-built-in/SE_DECIDE1_old2.ogg",
-      "sha256": "9bc7e712bba20d17ca9fb4ceec1b8c74a31fa9380db56a4291b01edeffadaf1e",
-      "size": 7798,
+      "sha256": "7c11a51ac0853d65f383f8c040f395b7c6fd6937f3c9be0776a593e068ea4b70",
+      "size": 8709,
       "status": "ready"
     },
     {
@@ -4212,8 +4212,8 @@
     },
     {
       "logicalPath": "audio/menu-common-built-in/SE_UI_SCROLL.ogg",
-      "sha256": "d2e799ee1b14559c31b7ea824ffe69de9525d845556c5df574e16c1c6334133d",
-      "size": 24629,
+      "sha256": "4c7ea8bebdd9cbadb9fe7bf46e68ac0dc5ab7379c931e0a89906318c6f4951b7",
+      "size": 19006,
       "status": "ready"
     },
     {
